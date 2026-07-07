@@ -7,6 +7,22 @@ The project involved data preparation, data modelling, DAX measure creation, das
 
 ---
 
+## Dashboard Preview
+
+### Course Performance Dashboard
+
+Interactive dashboard analysing course completion rates, learner engagement, Net Promoter Score (NPS), and overall course performance using KPI cards, trend analysis, and dynamic visualisations.
+
+![Course Performance Dashboard](screenshots/01_dashboard.png)
+
+### Executive Summary
+
+Summarises key insights into learner engagement, course completion trends, satisfaction levels, and recommendations to improve course quality and learning outcomes.
+
+![Executive Summary](screenshots/02_summary.png)
+
+---
+
 ##  Objectives  
 - Analyse course engagement using subscriber and review metrics  
 - Identify underperforming courses requiring improvement  
